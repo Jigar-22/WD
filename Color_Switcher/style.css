@@ -1,0 +1,44 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1{
+    text-align: center;
+    margin-top:5em;
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:2em;
+}
+.button{
+    border:1px solid black;
+    border-radius:5px;
+    margin:1em;
+    height: 100px;
+    width:100px;
+}
+#grey{
+    background-color: grey;
+}
+#pink{
+    background-color: pink;
+}
+#blue{
+    background-color: blue;
+}
+#yellow{
+    background-color: yellow;
+}
+#purple{
+    background-color: purple;
+}
+.container2{
+    width:50vw;
+    margin-left:24vw;
+}
+p{
+    font-weight: bold;
+    font-size: 2em;
+    text-align: center;
+}
